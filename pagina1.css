@@ -1,0 +1,97 @@
+  
+
+
+  h1 {color: #352737;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+  #teste{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+    #teste2{
+      display: flex;
+      margin: 0 auto;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  #div1 {
+    background-color:#22305c;  
+    width: 225px;
+    height: 320px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+  border: 0.8px solid gray;
+  }
+  #div2 {
+    background-color:#52407a;
+    width: 240px;
+    height:345px ;
+    display: inline-block;
+    box-sizing: inherit;
+    margin: 0px;
+    text-align: center;
+  }
+  #div3 {
+    background-color: #22305c;
+    width: 225px;
+    height:320px ;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    border: 0.8px solid gray;
+  }
+  #div4 {
+    background-color: #22305c;
+    width: 225px;
+    height:320px ;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    border: 0.8px solid gray;
+  }
+#div5 {
+    background-color:rgb(230 ,92, 123);
+    width: 600px;
+    height:550px ;
+    display: inline-block;
+    box-sizing: inherit;
+    margin: 50px;
+
+  }
+  #subtitulo{
+    color: #352737;
+    padding: 8px;
+  }
+  .botao{
+    margin-top: 20px;
+  position: relative;
+  }
+  .paragrafo{
+    margin-top: 70px;
+  position: relative;
+  color: azure;
+  }
+  .displayblock{
+    display: block;
+  }
+
+
+  .botao_2{
+    margin-top: 20px;
+    position: relative;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 45px;
+}
+  
+

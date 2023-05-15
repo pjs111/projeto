@@ -1,0 +1,56 @@
+
+  h1 {color: #352737;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+    text-align: center;
+    color: #352737;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    }
+    .mx2auto{
+     margin-right: -40px;
+     margin-left: auto;
+    } 
+    .texte-center{
+        text-align: center;
+    }
+    .form-control{
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-clip: padding-box;
+    border: 2px solid gray;
+  
+    }
+
+.teste{
+  color: gray;
+}
+hr {
+  margin: 250rem 350px;
+  color: inherit;
+  background-color: currentColor;
+  border: 0;
+  opacity: .25;
+}
+  
+  .form-check {
+   margin: 45px;
+  }
+  .form-chec {
+    margin: 45px;
+   }
+   .selecionados{
+    margin-left: 85px;
+   }
+   .child{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+   }
